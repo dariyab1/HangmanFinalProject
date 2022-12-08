@@ -47,6 +47,7 @@ public class HangmanRunner {
             System.out.println("Do you want to play again(yes/no): ");
             play=input.nextLine();
         }
+        System.out.println("Thank you for playing.");
 
     }
 
